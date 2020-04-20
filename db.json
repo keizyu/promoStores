@@ -1,0 +1,38 @@
+[
+    {
+        "id":	1,
+        "dealer":	"Centro Llantero Del Sur",
+        "address":   "Carr. Transpeninsular  Km. 3, El Tezal",
+        "city":     "Los Cabos",
+        "state": "Baja California Sur",
+        "cp":     23410,
+        "url":	"baja-california-sur/los-cabos/centro-llantero-del-sur"
+    },
+    {
+        "id":	2,
+        "dealer":	"Centro Llantero De B.C.S.",
+        "address":   "Isabel La Catolica Y Reforma 151, Centro",
+        "city":     "La Paz",
+        "state": "Baja California Sur",
+        "cp":     23000,
+        "url": "baja-california-sur/la-paz/centro-llantero-de-b-c-s"
+    },
+    {
+        "id":	3,
+        "dealer":	"Proveedora De Llantas Y Equipos",
+        "address":   "5 De Mayo  E/ Gomez Farias E Independencia 848, Centro",
+        "city":     "La Paz",
+        "state": "Baja California Sur",
+        "cp":     23000,
+        "url": "baja-california-sur/la-paz/proveedora-de-llantas-y-equipos"
+    },
+    {
+        "id":	4,
+        "dealer":	"Autocenter La Paz",
+        "address":   "Carabineros Esq. Con Colosio Y Forjadores 4010, Ex. Base Área",
+        "city":     "Los Cabos",
+        "state": "Baja California Sur",
+        "cp":     "23050",
+        "url":	"baja-california-sur/la-paz/autocenter-la-paz"
+    }
+]
