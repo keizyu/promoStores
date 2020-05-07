@@ -7,7 +7,7 @@
 	        "city":     "Los Cabos",
 	        "state": "Baja California Sur",
 	        "cp":     23410,
-	        "url":	"baja-california-sur/los-cabos/centro-llantero-del-sur"
+	        "url":	""
 	    },
 	    {
 	        "id":	2,
@@ -16,7 +16,7 @@
 	        "city":     "La Paz",
 	        "state": "Baja California Sur",
 	        "cp":     23000,
-	        "url": "baja-california-sur/la-paz/centro-llantero-de-b-c-s"
+	        "url": "#"
 	    },
 	    {
 	        "id":	3,
